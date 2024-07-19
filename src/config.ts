@@ -38,7 +38,6 @@ export const categories = [
   'Analytics',
   'Ansible',
   'Apps',
-  'C-like',
   'CLI',
   'CSS',
   'Databases',
@@ -50,18 +49,15 @@ export const categories = [
   'JavaScript',
   'JavaScript libraries',
   'Jekyll',
-  'Ledger',
   'Markup',
-  'macOS',
   'Node.js',
-  'PHP',
   'Python',
   'Rails',
   'React',
   'Ruby',
   'Ruby libraries',
   'Vim',
-  'Fitness',
+  // 'Fitness',
   'Others'
 ]
 
