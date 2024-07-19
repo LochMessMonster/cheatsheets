@@ -42,7 +42,6 @@ export const categories = [
   'CSS',
   'Databases',
   'Devops',
-  'Elixir',
   'Git',
   'HTML',
   'Java & JVM',
@@ -55,7 +54,6 @@ export const categories = [
   'Rails',
   'React',
   'Ruby',
-  'Ruby libraries',
   'Vim',
   // 'Fitness',
   'Others'
